@@ -1,0 +1,3 @@
+[submodule ".github/org-level-actions"]
+	path = .github/org-level-actions
+	url = https://github.com/igormedo/org-level-actions.git
